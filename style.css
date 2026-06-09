@@ -106,3 +106,26 @@ a {
     border-radius: 10px;
     max-width: 100%;
 }
+
+.section3 {
+    background-color: #e5e7eb;
+    color: #1f2937;
+    font-size: 36px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 500px;
+    text-align: center;
+}
+
+.section3 p {
+    font-style: italic;
+    font-weight: 300;
+    width: 900px;
+}
+
+.section3 span {
+    font-weight: 600;
+}
