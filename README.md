@@ -6,7 +6,11 @@ I will be recreating to the best of my abilities a landing page as close as poss
 ![full_design](images/full-design.png)
 
 ## Languages learned
-HTML,
+HTML\
 CSS
 
 ## Credits to images
+![landscape_image](images/landscape.jpg)
+Sushil Laishram\
+https://www.pexels.com/@slaishram/\
+https://www.pexels.com/photo/timelapse-photography-of-waterfalls-271160/\
