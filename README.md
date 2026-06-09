@@ -14,3 +14,10 @@ CSS
 Sushil Laishram\
 https://www.pexels.com/@slaishram/ <br>
 https://www.pexels.com/photo/timelapse-photography-of-waterfalls-271160/ <br>
+
+<br>
+
+![cat_image](images/cat.jpg)
+Luke Thornton\
+https://unsplash.com/@lukethorntonofficial <br>
+https://unsplash.com/photos/a-close-up-of-a-cat-with-green-eyes-l6wjeA3gnnM <br>
