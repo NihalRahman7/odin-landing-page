@@ -13,11 +13,28 @@ CSS
 ![landscape_image](images/landscape.jpg)
 Sushil Laishram\
 https://www.pexels.com/@slaishram/ <br>
-https://www.pexels.com/photo/timelapse-photography-of-waterfalls-271160/ <br>
+https://www.pexels.com/photo/timelapse-photography-of-waterfalls-271160/
 
+<br>
 <br>
 
 ![cat_image](images/cat.jpg)
 Luke Thornton\
 https://unsplash.com/@lukethorntonofficial <br>
-https://unsplash.com/photos/a-close-up-of-a-cat-with-green-eyes-l6wjeA3gnnM <br>
+https://unsplash.com/photos/a-close-up-of-a-cat-with-green-eyes-l6wjeA3gnnM
+
+<br>
+<br>
+
+![tokyo_image](images/nightcity-tokyo.jpg)
+Takashi Miyazaki\
+https://unsplash.com/@miyatankun <br>
+https://unsplash.com/photos/illuminated-city-skyline-at-twilight-with-a-prominent-purple-tower-SiNOkXcPz6U
+
+<br>
+<br>
+
+![palm_tress](images/palm-tress.jpg)
+Klara Kulikova\
+https://unsplash.com/@kkalerry <br>
+https://unsplash.com/photos/the-sun-is-shining-through-the-palm-trees-kEjJ-2fmOBw
