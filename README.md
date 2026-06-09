@@ -12,5 +12,5 @@ CSS
 ## Credits to images
 ![landscape_image](images/landscape.jpg)
 Sushil Laishram\
-https://www.pexels.com/@slaishram/\
-https://www.pexels.com/photo/timelapse-photography-of-waterfalls-271160/\
+https://www.pexels.com/@slaishram/ <br>
+https://www.pexels.com/photo/timelapse-photography-of-waterfalls-271160/ <br>
