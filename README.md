@@ -6,7 +6,7 @@ I will be recreating to the best of my abilities a landing page as close as poss
 ![full_design](images/full-design.png)
 
 ## Languages learned
-HTML
+HTML,
 CSS
 
 ## Credits to images
