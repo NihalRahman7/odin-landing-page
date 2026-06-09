@@ -34,7 +34,15 @@ https://unsplash.com/photos/illuminated-city-skyline-at-twilight-with-a-prominen
 <br>
 <br>
 
-![palm_tress](images/palm-tress.jpg) \
+![palm_trees_image](images/palm-tress.jpg) \
 Klara Kulikova\
 https://unsplash.com/@kkalerry <br>
 https://unsplash.com/photos/the-sun-is-shining-through-the-palm-trees-kEjJ-2fmOBw
+
+<br>
+<br>
+
+![subway_image](images/subway.jpg) \
+Mollie Sivaram\
+https://unsplash.com/@molliesivaram <br>
+https://unsplash.com/photos/inside-train-with-no-people-Byx-FleBDns
